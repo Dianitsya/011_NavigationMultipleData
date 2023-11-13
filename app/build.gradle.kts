@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.latihan8"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.latihan8"
