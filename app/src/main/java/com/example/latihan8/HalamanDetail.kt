@@ -18,6 +18,8 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import com.example.latihan8.data.OrderUIState
+import com.example.latihan8.ui.komponen.FormatLabelHarga
+
 
 @Composable
 fun HalamanDetail(
